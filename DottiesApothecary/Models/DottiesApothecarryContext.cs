@@ -17,3 +17,4 @@ namespace DottiesApothecary.Models
 
 // warn: Microsoft.EntityFrameworkCore.Infrastructure[10410]
 // 'AddEntityFramework*' was called on the service provider, but 'UseInternalServiceProvider' wasn't called in the DbContext options configuration. Consider removing the 'AddEntityFramework*' call, as in most cases it's not needed and may cause conflicts with other products and services registered in the same service provider.
+
