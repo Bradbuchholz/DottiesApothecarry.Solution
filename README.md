@@ -72,7 +72,7 @@ _This project was created for our Epicodus C# Team Week project._
 * Header images not working on views outside of main home. 
 ## License
 
-If you have any questions or concerns feel free to contact [Arthur Ortiz](Ortiz.Arthur.E@gmail.com), [Sean Keane](code@sean-keane.com), [Brad Buchholz](bradbuchholz@gmail.com)
+If you have any questions or concerns feel free to contact [Arthur Ortiz](mailto:Ortiz.Arthur.E@gmail.com), [Sean Keane](mailto:code@sean-keane.com), [Brad Buchholz](mailto:bradbuchholz@gmail.com)
 
 Custom button CSS was created by Steven Lei [Custom Buttons](https://getcssscan.com/css-buttons-examples) 
 
