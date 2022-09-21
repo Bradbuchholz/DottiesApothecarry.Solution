@@ -15,16 +15,16 @@ namespace DottiesApothecary
         public static void Main(string[] args)
         {
             // **** THIS WAS APART OF THE SCAFFOLD BUILD ****
-            CreateHostBuilder(args).Build().Run();
+            //CreateHostBuilder(args).Build().Run();
             // **** THIS IS WHAT THE LESSON PLAN DID ****
-            // var host = new WebHostBuilder()
-            //     .UseKestrel()
-            //     .UseContentRoot(Directory.GetCurrentDirectory())
-            //     .UseIISIntegration()
-            //     .UseStartup<Startup>()
-            //     .Build();
+            var host = new WebHostBuilder()
+                .UseKestrel()
+                .UseContentRoot(Directory.GetCurrentDirectory())
+                .UseIISIntegration()
+                .UseStartup<Startup>()
+                .Build();
 
-            // host.Run();
+            host.Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
