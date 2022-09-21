@@ -59,6 +59,7 @@ _This project was created for Epicodus bootcamp as our C# Team Week project. ._
 ```
 
 ## Known Bugs 
-
+* Custom buttons not working with links
+* Header images not working on most views
 ## License
 _Copyright (c) September 18th, 2022 Arthur Edward Ortiz, Sean Keane, Ryan Rendon, Brad Buchholz MIT_
