@@ -72,8 +72,8 @@ _This project was created for our Epicodus C# Team Week project._
 * Header images not working on views outside of main home. 
 ## License
 
-If you have any questions or concerns feel free to contact [Arthur Edward Ortiz](mailto:Ortiz.Arthur.E@gmail.com), [Sean Keane](mailto:code@sean-keane.com), or [Brad Buchholz].(mailto:bradbuchholz@gmail.com)
+If you have any questions or concerns feel free to contact [Arthur Edward Ortiz](mailto:Ortiz.Arthur.E@gmail.com), [Sean Keane](mailto:code@sean-keane.com), or [Brad Buchholz](mailto:bradbuchholz@gmail.com).
 
-Custom button CSS created by Steven Lei. You can find them [here](https://getcssscan.com/css-buttons-examples). 
+Custom button CSS created by CSS Scan. You can find them [here](https://getcssscan.com/css-buttons-examples). 
 
 _Copyright (c) September 20th, 2022 Arthur Edward Ortiz, Sean Keane, Brad Buchholz_
