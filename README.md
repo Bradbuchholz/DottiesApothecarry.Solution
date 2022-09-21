@@ -61,11 +61,19 @@ _This project was created for our Epicodus C# Team Week project._
 9. Next use the command **`dotnet run`** in your terminal to launch the program.
 10. The site should be avaialbe at the local host listed in your terminal. 
 
+## Example screen shot
 [![Dotties-Screen-Shot.png](https://i.postimg.cc/dV6677FB/Dotties-Screen-Shot.png)](https://postimg.cc/4YKVqxm7)
+
+## Example GIF of useability
 ![Setup](Dotties-Gif.gif)
 
 ## Known Bugs 
 * Custom buttons not working with links.
 * Header images not working on views outside of main home. 
 ## License
+
+If you have any questions or concerns feel free to contact [Arthur Ortiz](Ortiz.Arthur.E@gmail.com), [Sean Keane](code@sean-keane.com), [Brad Buchholz](bradbuchholz@gmail.com)
+
+Custom button CSS was created by Steven Lei [Custom Buttons](https://getcssscan.com/css-buttons-examples) 
+
 _Copyright (c) September 20th, 2022 Arthur Edward Ortiz, Sean Keane, Brad Buchholz MIT_
